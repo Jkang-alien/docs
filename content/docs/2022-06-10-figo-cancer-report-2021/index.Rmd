@@ -1,0 +1,16 @@
+---
+title: FIGO
+author: JK
+date: '2022-06-10'
+slug: []
+categories: []
+tags:
+  - OBY
+  - FIGO
+draft: no
+weight: 100
+---
+### FIGO Cancer Report 2021
+
+FIGO staging and report
+https://www.figo.org/news/figo-cancer-report-2021

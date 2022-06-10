@@ -4,6 +4,6 @@ title: Overview
 weight: 1
 ---
 
-## Whisper Theme
+## CMC seoul OBY & Breast Pathology
 
-Whisper is a minimal documentation theme for Hugo. The design and functionality is intentionally minimal. We’re aiming for a similar feel to a Github readme.
+This web site is intended to share data related to OBY & Breast pathology.
