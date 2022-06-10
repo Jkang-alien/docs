@@ -1,4 +1,4 @@
-baseURL: www.example.com
+baseURL: https://reliable-brigadeiros-840107.netlify.app/
 languageCode: en-us
 title: CMC seoul OBY & Breast Pathology 
 theme: hugo-whisper-theme
@@ -25,12 +25,12 @@ params:
   homepage_image: /images/terminal.gif
   homepage_intro: This web site is intended to share data related to pathology.
   homepage_meta_tags:
-    meta_description: Hugo Whisper is a documentation theme built with Hugo.
-    meta_og_description: Hugo Whisper is a documentation theme built with Hugo.
+    meta_description: This web site is intended to share data related to pathology.
+    meta_og_description: This web site is intended to share data related to pathology.
     meta_og_image: https://raw.githubusercontent.com/JugglerX/hugo-whisper-theme/master/images/tn.png
     meta_og_title: Hugo Whisper Theme
     meta_og_type: website
-    meta_og_url: https://hugo-whisper.netlify.app
+    meta_og_url: https://reliable-brigadeiros-840107.netlify.app/
     meta_twitter_card: summary
     meta_twitter_creator: '@zerostaticio'
     meta_twitter_site: '@zerostaticio'
