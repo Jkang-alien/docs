@@ -1,6 +1,6 @@
 ---
 date: "2018-11-28T15:14:39+10:00"
-title: Hugo Whisper Docs
+title: CMC seoul OBY & Breast Pathology
 ---
 
-Whisper is a documentation theme built with Hugo. The design and functionality is intentionally minimal. 
+This web site is intended to share data related to OBY and breast pathology. 

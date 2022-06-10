@@ -1,6 +1,6 @@
 baseURL: https://reliable-brigadeiros-840107.netlify.app/
 languageCode: en-us
-title: CMC seoul OBY & Breast Pathology 
+title: CMC Seoul OBY & Breast Pathology 
 theme: hugo-whisper-theme
 pygmentsCodeFences: yes
 pygmentsCodefencesGuessSyntax: yes
@@ -18,11 +18,14 @@ menu:
     - name: Docs
       url: /docs/
       weight: 2
+    - name: Post
+      url: /post/
+      weight: 3
 params:
   google_analytics_id: ''
   homepage_button_link: /docs
   homepage_button_text: Read The Docs
-  homepage_image: /images/terminal.gif
+  homepage_image: /images/milk.jpeg
   homepage_intro: This web site is intended to share data related to pathology.
   homepage_meta_tags:
     meta_description: This web site is intended to share data related to pathology.
