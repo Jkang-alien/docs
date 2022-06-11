@@ -1,0 +1,24 @@
+---
+title: PD-L1 Interpretation Manual
+author: JK
+date: '2022-06-11'
+slug: []
+categories:
+  - Breast
+  - PD-L1
+tags:
+  - Breast
+  - PD-L1
+draft: no
+weight: 100
+---
+
+VENTANA PD-L1 (SP142) Assay IC staining 
+https://diagnostics.roche.com/content/dam/diagnostics/us/en/resource-center/VENTANA-PD-L1-(SP142)-Assay-Interpretation-Guide.pdf  
+
+PD-L1 IHC 22C3 pharmDx Interpretation Manual – Triple-Negative Breast Cancer
+https://www.agilent.com/cs/library/usermanuals/public/29389_22c3_pharmdx_tnbc_interpretation_manual_kn355.pdf  
+
+PD-L1 IHC 22C3 pharmDx Interpretation Manual – Cervical Cancer
+https://www.agilent.com/cs/library/usermanuals/public/29257_22c3_pharmDx_cervical_interpretation_manual_us.pdf
+
