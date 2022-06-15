@@ -1,0 +1,20 @@
+---
+title: Bethesda interobserver reproducibility data
+author: JK
+date: '2022-06-15'
+slug: []
+categories:
+  - Cytology
+  - Bethesda
+tags:
+  - Cytology
+  - Bethesda
+draft: no
+weight: 100
+---
+
+Cytology reporting system
+https://cytopathology.org/page/ReportingSystems  
+
+Bethesda interobserver reproducibility data
+https://bethesda.soc.wisc.edu/index.htm
