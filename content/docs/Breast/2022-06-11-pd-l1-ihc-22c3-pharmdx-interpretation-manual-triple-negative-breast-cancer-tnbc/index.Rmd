@@ -14,7 +14,7 @@ weight: 100
 ---
 
 VENTANA PD-L1 (SP142) Assay IC staining 
-https://diagnostics.roche.com/content/dam/diagnostics/us/en/resource-center/VENTANA-PD-L1-(SP142)-Assay-Interpretation-Guide.pdf  
+https://diagnostics.roche.com/content/dam/diagnostics/us/en/products/v/ventana-pd-l1-sp142-assay/VENTANA-PD-L1-SP142-IG-UC.pdf 
 
 PD-L1 IHC 22C3 pharmDx Interpretation Manual – Triple-Negative Breast Cancer
 https://www.agilent.com/cs/library/usermanuals/public/29389_22c3_pharmdx_tnbc_interpretation_manual_kn355.pdf  
